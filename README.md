@@ -192,9 +192,3 @@ This project provides practical experience with:
 - This repository contains database schema, sample records, a database dump, and a design document; it does not currently expose an application/API layer in the repository root.
 - The sample SQL data is illustrative project data and should not be treated as official election results or a production voter register.
 - The schema stores a vote-to-voter association but does not, by itself, provide a complete secure/electronic voting system. Production election systems require additional security, privacy, auditability, and access-control mechanisms.
-
-## Author
-
-**Sindhu**
-
-[GitHub Repository](https://github.com/Sindhuu1007/Election-DataBase-Management-System)
